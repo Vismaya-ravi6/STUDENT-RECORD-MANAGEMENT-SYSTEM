@@ -55,6 +55,3 @@ make clean
 - Dynamic Memory Allocation
 - File Handling
 - Searching and Sorting
-- Dynamic Memory Allocation
-- File Handling
-- Searching and Sorting

@@ -20,7 +20,7 @@ A menu-driven Student Record Management System developed using C programming. It
 ## File Description
 
 `stud_main.c` : Main function and menu operations.  
-`stud_add.c` :Adds new student records.|
+`stud_add.c` :Adds new student records.
 `stud_del.c` :Deletes records by roll number or name. 
 `stud_del_all.c` : Deletes all student records. 
 `stud_mod.c`: Modifies student details. 
